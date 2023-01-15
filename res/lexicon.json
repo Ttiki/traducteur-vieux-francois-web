@@ -1,0 +1,536 @@
+{
+    "vetement": [
+        {
+            "traduction": "Affublement",
+            "courant": "vêtement"
+        },
+        {
+            "traduction": "Braies",
+            "courant": "pantalon"
+        },
+        {
+            "traduction": "Cotte",
+            "courant": "tunique, chemise"
+        },
+        {
+            "traduction": "Défroques",
+            "courant": "mauvais vêtements"
+        },
+        {
+            "traduction": "Mantel",
+            "courant": "manteau"
+        },
+        {
+            "traduction": "Accoutré",
+            "courant": "vetu"
+        },
+        {
+            "traduction": "Affutiau",
+            "courant": "Parure de vetement sans valeur"
+        },
+        {
+            "traduction": "Bliaut",
+            "courant": "Chemise"
+        },
+        {
+            "traduction": "Broigne",
+            "courant": "cotte de cuir ou de toile"
+        },
+        {
+            "traduction": "Chausse",
+            "courant": "Bas de laine qui preserve les jambes du froid"
+        },
+        {
+            "traduction": "Cotelle",
+            "courant": "Robe"
+        },
+        {
+            "traduction": "Ganbison",
+            "courant": "Vetement rembourré"
+        },
+        {
+            "traduction": "Haillions",
+            "courant": "vêtement abimés"
+        }
+    ],
+    "femme": [
+        {
+            "traduction": "Bachelette",
+            "courant": "jeune fille"
+        },
+        {
+            "traduction": "Damoiselle",
+            "courant": "jeune fille noble non mariée"
+        },
+        {
+            "traduction": "Pucelle",
+            "courant": "idem sans la noblesse"
+        },
+        {
+            "traduction": "Garcelette",
+            "courant": "Jeune fille"
+        },
+        {
+            "traduction": "Jouvencelle",
+            "courant": "idem"
+        },
+        {
+            "traduction": "Donzelle",
+            "courant": "idem (langage plus familier)"
+        },
+        {
+            "traduction": "Dame",
+            "courant": "femme mariée"
+        },
+        {
+            "traduction": "Fame",
+            "courant": "gent féminine en général"
+        },
+        {
+            "traduction": "Laye",
+            "courant": "Tante"
+        },
+        {
+            "traduction": "Beasse",
+            "courant": "Jeune servante"
+        },
+        {
+            "traduction": "Drolesse",
+            "courant": "Femme effrontée et meprisable"
+        },
+        {
+            "traduction": "Fasset",
+            "courant": "Corsage"
+        },
+        {
+            "traduction": "Feminage",
+            "courant": "Feminiter"
+        },
+        {
+            "traduction": "Lanterne",
+            "courant": "Sexe feminin"
+        },
+        {
+            "traduction": "Becnaude",
+            "courant": "une criarde, une bavarde"
+        },
+        {
+            "traduction": "Beguelle",
+            "courant": "une impertinente"
+        }
+    ],
+    "homme": [
+        {
+            "courant": "Bon gaultier",
+            "traduction": "joyeux luron"
+        },
+        {
+            "courant": "Jouvenceau",
+            "traduction": "jeune homme (péjoratif)"
+        },
+        {
+            "courant": "Damelot",
+            "traduction": "jeune homme de noble origine"
+        },
+        {
+            "courant": "Gentilhomme",
+            "traduction": "Il et epoux de la noble dame"
+        },
+        {
+            "courant": "Escuyer",
+            "traduction": "écuyer"
+        },
+        {
+            "courant": "Fillot(e)",
+            "traduction": "fils/fille"
+        },
+        {
+            "courant": "Géniture",
+            "traduction": "descendance"
+        },
+        {
+            "courant": "Seigneur",
+            "traduction": "Monseigneur"
+        },
+        {
+            "courant": "Bachelier",
+            "traduction": "Jeune chevalier, adoube ou non"
+        },
+        {
+            "courant": "Barde",
+            "traduction": "Chanteur s'accompagnant a la viole"
+        },
+        {
+            "courant": "Biau",
+            "traduction": "Beau"
+        },
+        {
+            "courant": "Baron",
+            "traduction": "homme au sens 'viril' du mot. Vassal ou seigneur important"
+        },
+        {
+            "courant": "Doyen",
+            "traduction": "homme âgé"
+        }
+    ],
+    "combat": [
+        {
+            "traduction": "Bataculer",
+            "courant": "basculer"
+        },
+        {
+            "traduction": "Bouter",
+            "courant": "pousser, jeter"
+        },
+        {
+            "traduction": "Choir",
+            "courant": "tomber"
+        },
+        {
+            "traduction": "Ost",
+            "courant": "armée du roi"
+        },
+        {
+            "traduction": "Arbalestrie",
+            "courant": "arbalète"
+        },
+        {
+            "traduction": "Bastaille",
+            "courant": "bataille"
+        },
+        {
+            "traduction": "Guerroyer",
+            "courant": "combattre"
+        },
+        {
+            "traduction": "Estriller",
+            "courant": "étriper"
+        },
+        {
+            "traduction": "Mortir",
+            "courant": "tuer"
+        },
+        {
+            "traduction": "Occire",
+            "courant": "mettre à mort"
+        },
+        {
+            "traduction": "Pourfendre",
+            "courant": "traverser de sa lame"
+        },
+        {
+            "traduction": "Olifant",
+            "courant": "cor (instrument)"
+        },
+        {
+            "traduction": "Mânes",
+            "courant": "âmes des morts"
+        },
+        {
+            "traduction": "Mortaille",
+            "courant": "la mort"
+        },
+        {
+            "traduction": "Aller à la mortaille",
+            "courant": "se jeter dans la bataille"
+        },
+        {
+            "traduction": "Testuit a moi",
+            "courant": "tous sur moi!"
+        },
+        {
+            "traduction": "Allumelle",
+            "courant": "lame"
+        },
+        {
+            "traduction": "Armet",
+            "courant": "casque qui succede au bacinet"
+        },
+        {
+            "traduction": "Bacinet",
+            "courant": "Casque XIV ieme siecle"
+        },
+        {
+            "traduction": "Cotel",
+            "courant": "Couteau"
+        },
+        {
+            "traduction": "Attrapoire",
+            "courant": "Piege"
+        },
+        {
+            "traduction": "Behourder",
+            "courant": "Se battre a grand coup de lance"
+        },
+        {
+            "traduction": "Brand",
+            "courant": "Lourde pee, longue et effilée"
+        },
+        {
+            "traduction": "Braquemart",
+            "courant": "Epee courte et large"
+        },
+        {
+            "traduction": "Colée",
+            "courant": "grand coup de la main ou de l'epee"
+        },
+        {
+            "traduction": "Hanst",
+            "courant": "Epieu, lance"
+        },
+        {
+            "traduction": "Haubergon",
+            "courant": "Petit haubert a manche courte"
+        },
+        {
+            "traduction": "Haubert",
+            "courant": "Cotte de maille porter au IX eme et XII ieme siecle"
+        },
+        {
+            "traduction": "Haume",
+            "courant": "Grand casque de metal qui protege toute la tete"
+        },
+        {
+            "traduction": "Hourder",
+            "courant": "Escorter"
+        },
+        {
+            "traduction": "Housseaux",
+            "courant": "Jambiere"
+        },
+        {
+            "traduction": "Jacque",
+            "courant": "Pourpoint a manche, matelasser"
+        },
+        {
+            "traduction": "Jeter plan",
+            "courant": "Abbatre"
+        },
+        {
+            "traduction": "Joute",
+            "courant": "Quand 2 chevalier se rencontrent"
+        },
+        {
+            "traduction": "Catapulte",
+            "courant": "machine de guerre"
+        },
+        {
+            "traduction": "Epopée",
+            "courant": "long poème célébrant un héros, ou se mélent le merveilleux et le vrai"
+        },
+        {
+            "traduction": "Estoc",
+            "courant": "pointe d'une arme blanche"
+        }
+    ],
+    "insultes": [
+        {
+            "traduction": "Bric",
+            "courant": "fripon, coquin"
+        },
+        {
+            "traduction": "Paillarde",
+            "courant": "fille rustre"
+        },
+        {
+            "traduction": "Ribaude",
+            "courant": "fille de bas étage"
+        },
+        {
+            "traduction": "Gueuse",
+            "courant": "pov' fille"
+        },
+        {
+            "traduction": "Devergoigneuse",
+            "courant": "sans gêne"
+        },
+        {
+            "traduction": "Maroufle",
+            "courant": "maraud"
+        },
+        {
+            "traduction": "Coquebert",
+            "courant": "nigaud"
+        },
+        {
+            "traduction": "Gueux",
+            "courant": "pov' type"
+        },
+        {
+            "traduction": "Boursemolle",
+            "courant": "impuissant"
+        },
+        {
+            "traduction": "Sac à vin",
+            "courant": "saoulard"
+        },
+        {
+            "traduction": "Houlier",
+            "courant": "débauché, pillard"
+        },
+        {
+            "traduction": "Fol dingo",
+            "courant": "fou"
+        },
+        {
+            "traduction": "Couard",
+            "courant": "peureux"
+        },
+        {
+            "traduction": "Merdaille",
+            "courant": "merdeux"
+        },
+        {
+            "traduction": "Chiabrena",
+            "courant": "chiure de merde"
+        },
+        {
+            "traduction": "Menuaille",
+            "courant": "populace"
+        },
+        {
+            "traduction": "Sale trogne",
+            "courant": "sale tête"
+        },
+        {
+            "traduction": "Ca puire",
+            "courant": "ça pue"
+        },
+        {
+            "traduction": "Baronnet(te)",
+            "courant": "noble de pacotille"
+        },
+        {
+            "traduction": "Bagasse/Gouge",
+            "courant": "Putain"
+        },
+        {
+            "traduction": "Belitre",
+            "courant": "Coquin, maraud"
+        },
+        {
+            "traduction": "Compisser",
+            "courant": "Souiller d'urine"
+        },
+        {
+            "traduction": "Coureuse de rempart",
+            "courant": "Prostituée"
+        },
+        {
+            "traduction": "Golinette",
+            "courant": "Petite depravée"
+        },
+        {
+            "traduction": "Fourbe / Fredin",
+            "courant": "Voleur"
+        },
+        {
+            "traduction": "Poysse",
+            "courant": "la poisse"
+        },
+        {
+            "traduction": "Venstre saynt gris",
+            "courant": "fichtre !"
+        },
+        {
+            "traduction": "Que barbe m'en fusme",
+            "courant": "que la barbe m'en fume!"
+        },
+        {
+            "traduction": "Malspropre",
+            "courant": "malpropre"
+        },
+        {
+            "traduction": "Guignon",
+            "courant": "malchance"
+        },
+        {
+            "traduction": "Fallace",
+            "courant": "Fourberie"
+        },
+        {
+            "traduction": "Vendeur d’orviétan",
+            "courant": "charlatan"
+        },
+        {
+            "traduction": "Bienheureux",
+            "courant": "homme béat"
+        },
+        {
+            "traduction": "Cageot / Lépreux",
+            "courant": "surnom injurieux adressé aux Normands"
+        },
+        {
+            "traduction": "Scélérat",
+            "courant": "bandit"
+        }
+    ],
+    "expressionsTypiques": [
+        {
+            "traduction": "Or i allons",
+            "courant": "allons-y"
+        },
+        {
+            "traduction": "Oyez...",
+            "courant": "Ecoutez"
+        },
+        {
+            "traduction": "Peste soit de ...",
+            "courant": "que ... soit maudit"
+        },
+        {
+            "traduction": "Bien vaigniez",
+            "courant": "soyez les bienvenus"
+        },
+        {
+            "traduction": "Je te créant",
+            "courant": "je te donne ma parole"
+        },
+        {
+            "traduction": "Repris a forfet",
+            "courant": "pris sur le fait"
+        },
+        {
+            "traduction": "Autant ce vaut",
+            "courant": "c’est tout comme"
+        },
+        {
+            "traduction": "Ralons joer",
+            "courant": "retournons jouer"
+        },
+        {
+            "traduction": "Avoir cuer de lievre",
+            "courant": "être lâche"
+        },
+        {
+            "traduction": "Aller à la brune",
+            "courant": "sortir pendant la nuit"
+        },
+        {
+            "traduction": "Derechef",
+            "courant": "immédiatement, à nouveau"
+        },
+        {
+            "courant": "De part chez nous",
+            "traduction": "ici, à l'accoutumée"
+        },
+        {
+            "courant": "Que trépasse si je faiblis !",
+            "traduction": "je lutterai à mort"
+        },
+        {
+            "courant": "N’en pouvoir ni ho ni jo",
+            "traduction": "ne rien pouvoir y faire"
+        },
+        {
+            "courant": "Mortecouille !",
+            "traduction": "pour une mauvaise surprise"
+        },
+        {
+            "courant": "Tudieu!",
+            "traduction": "idem"
+        }
+    ]
+
+    
+}

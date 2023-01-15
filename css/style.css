@@ -1,13 +1,12 @@
 @charset "UTF-8";
 * {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: "MedievalSharp", cursive;
   background-color: #f5f5f5;
   background-image: url("../res/media/img/bg.jpg");
 }
@@ -21,25 +20,13 @@ header {
 #main-form-wrap {
   width: 100%;
   margin: auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -ms-flex-line-pack: distribute;
-      align-content: space-around;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: space-around;
 }
-
 #main-form-wrap textarea {
   width: 100%;
   height: 100px;
@@ -49,8 +36,8 @@ header {
   border-radius: 5px;
   font-size: 16px;
   resize: none;
+  font-family: "MedievalSharp", cursive;
 }
-
 #main-form-wrap button {
   width: 100%;
   height: 50px;
@@ -61,8 +48,8 @@ header {
   font-size: 16px;
   background-color: #fff;
   cursor: pointer;
+  font-family: "MedievalSharp", cursive;
 }
-
 #main-form-wrap button:hover {
   background-color: #ccc;
 }
